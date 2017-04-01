@@ -1,0 +1,28 @@
+{
+  "name": "whatishttp",
+  "version": "1.0.0",
+  "description": "Command line tool to let you quickly lookup what an HTTP status code means.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ColdSauce/whatishttp.git"
+  },
+  "keywords": [
+    "http",
+    "status",
+    "error",
+    "code"
+  ],
+  "author": "Stefan Aleksic <stefan@stefanaleksic.com> (twitter.com/stayfun_)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ColdSauce/whatishttp/issues"
+  },
+  "homepage": "https://github.com/ColdSauce/whatishttp#readme",
+  "bin": {
+    "wih": "./index.js"
+  }
+}
