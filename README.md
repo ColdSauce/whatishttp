@@ -2,12 +2,14 @@
 Command line utility that lets one quickly lookup what an HTTP status code means.
 
 ## Installation
-Installation is super simple. 
+Installation is super simple.
+
 `npm install whatishttp -g`
 
 ## Using
 To use, simply run the following:
-`wih <some http status code`
+
+`wih <some http status code>`
 
 ### Example
 
